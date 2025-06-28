@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Srivarshitha Sriperambudur
 
-🎓 **B.Tech CSE (AI & ML)** | 💻 Aspirant Software Engineer | 🤖 AIML Enthusiast |
+🎓 **B.Tech CSE (Artificial Intelligence & Machone Learning)** | 💻 Aspirant Software Engineer | 🤖 AIML Enthusiast |
 
 🔍 Passionate about building intelligent systems that solve real-world problems through **Machine Learning**, **Computer Vision**, and **Web Development**.
 
