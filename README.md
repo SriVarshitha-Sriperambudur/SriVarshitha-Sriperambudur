@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Srivarshitha Sriperambudur
 
-🎓 **B.Tech CSE (Artificial Intelligence & Machone Learning)** | 💻 Aspirant Software Engineer | 🤖 AIML Enthusiast |
+🎓 **B.Tech CSE (Artificial Intelligence & Machine Learning)** | 💻 Aspirant Software Engineer | 🤖 AIML Enthusiast |
 
 🔍 Passionate about building intelligent systems that solve real-world problems through **Machine Learning**, **Computer Vision**, and **Web Development**.
 
@@ -29,7 +29,7 @@ I'm a highly driven AI & ML undergraduate with a knack for turning complex ideas
 
 ## 💼 Projects Showcase
 
-### 🖐️ [Air Canvas using Computer Vision](https://github.com/SriVarshitha-Sriperambudur/air-canvas)
+### 🖐️ [Air Canvas: A Computer Vision-Based Drawing System with SVM-Powered ASL Recognition](https://github.com/SriVarshitha-Sriperambudur/Air-Canvas: A-Computer-Vision-Based-Drawing-System-with-SVM-Powered-ASL-Recognition)
 
 **Draw in the air using your fingers!**
 
